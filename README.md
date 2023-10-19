@@ -8,4 +8,4 @@ BIRIBINHA
 
 Sample website with plenty of files for demos
 
-Copyright
+Copyright all rights reserved
