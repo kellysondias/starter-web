@@ -1,3 +1,5 @@
 # robotstxt.org/
 MAIS UMA ALTERAÇÃO NA MAINN
+
+:^]
 User-agent: *
